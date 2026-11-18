@@ -1,0 +1,41 @@
+name: "🐞 Bug report"
+description: Report something that is broken or not working as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Bitcoin Deepa. Please **do not** report security
+        vulnerabilities here — follow our [Security Policy](https://github.com/BitcoinDeepa/.github/blob/main/SECURITY.md) instead.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug and what you expected instead.
+      placeholder: When I tap "Send", the balance does not update...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. See error
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version / environment
+      description: App version, bot, device, OS — whatever applies.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Paste any relevant logs or attach screenshots. Redact anything private — never include seed phrases, keys, or personal data.
+    validations:
+      required: false
