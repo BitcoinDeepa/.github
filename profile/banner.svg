@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Bitcoin Deepa — Pearl of Satoshi">
+  <defs>
+    <pattern id="btc" width="80" height="92" patternUnits="userSpaceOnUse" patternTransform="rotate(0)">
+      <text x="10" y="40" font-family="Ubuntu, Arial, sans-serif" font-size="34" font-weight="700" fill="#000000" opacity="0.06">₿</text>
+      <text x="50" y="86" font-family="Ubuntu, Arial, sans-serif" font-size="34" font-weight="700" fill="#000000" opacity="0.06">₿</text>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="#F8931A"/>
+  <rect width="1280" height="320" fill="url(#btc)"/>
+  <text x="80" y="150" font-family="Ubuntu, Arial, sans-serif" font-size="76" font-weight="700" fill="#000000">Bitcoin Deepa</text>
+  <text x="82" y="210" font-family="Ubuntu, Arial, sans-serif" font-size="34" font-weight="500" font-style="italic" fill="#000000">Pearl of Satoshi</text>
+  <text x="82" y="262" font-family="Nunito Sans, Arial, sans-serif" font-size="22" font-weight="400" fill="#000000">Bitcoin-only education for Sri Lanka — in Sinhala &amp; English</text>
+</svg>
