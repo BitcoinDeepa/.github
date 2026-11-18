@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Telegram
+    url: https://t.me/BitcoinDeepa
+    about: Questions and help using Bitcoin Deepa — ask the community here.
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/BitcoinDeepa/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as a public issue.
+  - name: 📖 Blog & learning
+    url: https://blog.bitcoindeepa.com
+    about: Guides and articles in Sinhala and English.
