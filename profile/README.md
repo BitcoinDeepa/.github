@@ -9,7 +9,7 @@
 <p>
   <a href="https://bitcoindeepa.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-website-dark.svg"><img src="./assets/buttons/pill-website.svg" alt="Website" height="34"></picture></a>
   <a href="https://t.me/BitcoinDeepa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-telegram-dark.svg"><img src="./assets/buttons/pill-telegram.svg" alt="Telegram" height="34"></picture></a>
-  <a href="https://x.com/pearlofsatoshi"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-x-dark.svg"><img src="./assets/buttons/pill-x.svg" alt="Follow on X" height="34"></picture></a>  <a href="https://github.com/bitcoindeepa/.github/blob/main/LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-license-dark.svg"><img src="./assets/buttons/pill-license.svg" alt="License: AGPL-3.0" height="34"></picture></a>
+  <a href="https://x.com/bitcoindeepa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-x-dark.svg"><img src="./assets/buttons/pill-x.svg" alt="Follow on X" height="34"></picture></a>  <a href="https://github.com/bitcoindeepa/.github/blob/main/LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-license-dark.svg"><img src="./assets/buttons/pill-license.svg" alt="License: AGPL-3.0" height="34"></picture></a>
   <a href="https://github.com/bitcoindeepa/.github/blob/main/CONTRIBUTING.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/pill-contribute-dark.svg"><img src="./assets/buttons/pill-contribute.svg" alt="Contribute" height="34"></picture></a>
 </p>
 
@@ -74,7 +74,7 @@ reserved trademark of CeylonCash and is not covered by the code licence. See
   <a href="https://bitcoindeepa.com">Website</a> ·
   <a href="https://t.me/BitcoinDeepa">Telegram</a> ·
   <a href="https://t.me/bitcoindeepabot">Wallet bot</a> ·
-  <a href="https://x.com/pearlofsatoshi">X</a> ·
+  <a href="https://x.com/bitcoindeepa">X</a> ·
   <a href="https://instagram.com/bitcoindeepa">Instagram</a> ·
   <a href="https://blog.bitcoindeepa.com">Blog</a> ·
   <a href="https://lu.ma/bitcoindeepa">Events</a> ·
