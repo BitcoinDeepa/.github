@@ -1,0 +1,8 @@
+{
+  // Wrap prose at 120. Long URLs alone past the limit are allowed (non-strict mode).
+  "MD013": { "line_length": 120 },
+  // GitHub needs HTML for light/dark images (<picture>), floats and the centred footer.
+  "MD033": {
+    "allowed_elements": ["a", "b", "br", "details", "em", "img", "p", "picture", "source", "strong", "sub", "summary"]
+  }
+}

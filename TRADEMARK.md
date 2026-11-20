@@ -39,7 +39,7 @@ and remove the Bitcoin Deepa marks and logo assets.
 ## Questions & permission
 
 For brand use beyond nominative reference, or any question about this policy,
-contact **hello@bitcoindeepa.com**.
+contact **<hello@bitcoindeepa.com>**.
 
 ---
 
