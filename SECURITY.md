@@ -13,7 +13,7 @@ Instead, report privately in one of these ways:
 
 - Use **GitHub → Security → "Report a vulnerability"** (private advisory) on the
   affected repository, **or**
-- Email **security@bitcoindeepa.com** (or **hello@bitcoindeepa.com**).
+- Email **<security@bitcoindeepa.com>** (or **<hello@bitcoindeepa.com>**).
 
 Please include:
 

@@ -1,0 +1,5 @@
+{
+  // extends the root config; templates start below an HTML comment, not with an H1
+  "extends": "../.markdownlint.jsonc",
+  "MD041": false
+}

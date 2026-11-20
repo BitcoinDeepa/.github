@@ -36,7 +36,7 @@ translations, design, testing, and teaching materials.
 By contributing, you certify the [Developer Certificate of Origin](https://developercertificate.org/).
 Sign off each commit:
 
-```
+```bash
 git commit -s -m "feat: add Sinhala onboarding strings"
 ```
 
@@ -61,5 +61,5 @@ Never report a security vulnerability in a public issue. Follow
 
 ---
 
-Questions? Reach us at **hello@bitcoindeepa.com** or on
+Questions? Reach us at **<hello@bitcoindeepa.com>** or on
 [Telegram](https://t.me/BitcoinDeepa).
