@@ -1,53 +1,41 @@
 <!-- markdownlint-disable-next-line MD041 -- the page opens with the logo, not a heading -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/half-yaka-laser.svg">
-  <img align="right" width="14%" alt=""
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/half-yaka.svg">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/half-yaka-laser.svg"><img
+  align="right" width="14%" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/half-yaka.svg"></picture>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/wordmark-dark.svg">
-  <img width="40%" alt="Bitcoin Deepa: Pearl of Satoshi"
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/wordmark.svg">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/wordmark-dark.svg"><img
+  width="40%" alt="Bitcoin Deepa: Pearl of Satoshi"
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/brand/wordmark.svg"></picture>
 
 <p>Bitcoin-only education and open tools for Sri Lanka.<br><strong>In Sinhala and English</strong>, built in the open.</p>
 
 <p>
-<a href="https://bitcoindeepa.com"><picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-website-dark.svg">
-  <img height="34" alt="Website"
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-website.svg">
-</picture></a>
-<a href="https://t.me/BitcoinDeepa"><picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-telegram-dark.svg">
-  <img height="34" alt="Telegram"
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-telegram.svg">
-</picture></a>
-<a href="https://x.com/bitcoindeepa"><picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-x-dark.svg">
-  <img height="34" alt="Follow on X"
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-x.svg">
-</picture></a>
-<a href="https://github.com/bitcoindeepa/.github/blob/main/LICENSE"><picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-license-dark.svg">
-  <img height="34" alt="License: AGPL-3.0"
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-license.svg">
-</picture></a>
-<a href="https://github.com/bitcoindeepa/.github/blob/main/CONTRIBUTING.md"><picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-contribute-dark.svg">
-  <img height="34" alt="Contribute"
-    src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-contribute.svg">
-</picture></a>
+<a href="https://bitcoindeepa.com"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-website-dark.svg"><img
+  height="34" alt="Website"
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-website.svg"></picture></a>
+<a href="https://t.me/BitcoinDeepa"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-telegram-dark.svg"><img
+  height="34" alt="Telegram"
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-telegram.svg"></picture></a>
+<a href="https://x.com/bitcoindeepa"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-x-dark.svg"><img
+  height="34" alt="Follow on X"
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-x.svg"></picture></a>
+<a href="https://github.com/bitcoindeepa/.github/blob/main/LICENSE"><picture><source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-license-dark.svg"><img
+  height="34" alt="License: AGPL-3.0"
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-license.svg"></picture></a>
+<a href="https://github.com/bitcoindeepa/.github/blob/main/CONTRIBUTING.md"><picture><source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-contribute-dark.svg"><img
+  height="34" alt="Contribute"
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/buttons/pill-contribute.svg"></picture></a>
 </p>
 
 <p><em>ශ්‍රී ලංකාවේ ජනතාවට බිට්කොයින් තේරුම් ගැනීමට සහ භාවිතා කිරීමට — සිංහලෙන් සහ ඉංග්‍රීසියෙන්.</em></p>
@@ -65,17 +53,41 @@ island can learn, earn and hold their own sats.
 
 Everything we ship is moving here, in the open.
 
-- [![GitHub][gh] **bot**][bot]: [@BitcoinDeepaBot](https://t.me/BitcoinDeepaBot), a Lightning wallet and tip
-  bot for Telegram group chats
-- [![GitHub][gh] **lightning-stack**][lightning-stack]: the self-custodial node behind it, with LND,
-  ThunderHub and LNbits
-- [![GitHub][gh] **app-frontend**][app-frontend]: the Bitcoin Deepa Telegram Mini App, to stack sats on a
-  weekly or monthly plan
-- [![GitHub][gh] **app-backend**][app-backend]: the service behind the app, with PayHere payments in rupees
-- [![GitHub][gh] **admin-frontend**][admin-frontend]: the admin dashboard for the app
-- [![GitHub][gh] **sats-dansala**][sats-dansala]: a Lightning faucet for the community, in the spirit of a
-  dansala
-- [![GitHub][gh] **website**][website]: [bitcoindeepa.com](https://bitcoindeepa.com)
+- <a href="https://github.com/bitcoindeepa/bot"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>bot</b></a>:
+  [@BitcoinDeepaBot](https://t.me/BitcoinDeepaBot), a Lightning wallet and tip bot for Telegram group chats
+- <a href="https://github.com/bitcoindeepa/lightning-stack"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>lightning-stack</b></a>:
+  the self-custodial node behind it, with LND, ThunderHub and LNbits
+- <a href="https://github.com/bitcoindeepa/app-frontend"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>app-frontend</b></a>:
+  the Bitcoin Deepa Telegram Mini App, to stack sats on a weekly or monthly plan
+- <a href="https://github.com/bitcoindeepa/app-backend"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>app-backend</b></a>:
+  the service behind the app, with PayHere payments in rupees
+- <a href="https://github.com/bitcoindeepa/admin-frontend"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>admin-frontend</b></a>:
+  the admin dashboard for the app
+- <a href="https://github.com/bitcoindeepa/sats-dansala"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>sats-dansala</b></a>:
+  a Lightning faucet for the community, in the spirit of a dansala
+- <a href="https://github.com/bitcoindeepa/website"><picture><source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github-dark.svg"><img
+  width="16" height="16" alt=""
+  src="https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg"></picture>&nbsp;<b>website</b></a>:
+  [bitcoindeepa.com](https://bitcoindeepa.com)
 
 Beyond code, we wrote a Sinhala Bitcoin book (ISBN 978-624-6580-00-1) and run workshops and
 [community events](https://lu.ma/bitcoindeepa) across Sri Lanka.
@@ -122,12 +134,3 @@ reserved trademark of CeylonCash and is not covered by the code licence. See
 </p>
 
 <p align="center"><sub>A CeylonCash community initiative · Colombo, Sri Lanka 🇱🇰</sub></p>
-
-[gh]: https://raw.githubusercontent.com/bitcoindeepa/.github/main/profile/assets/icons/github.svg
-[bot]: https://github.com/bitcoindeepa/bot
-[lightning-stack]: https://github.com/bitcoindeepa/lightning-stack
-[app-frontend]: https://github.com/bitcoindeepa/app-frontend
-[app-backend]: https://github.com/bitcoindeepa/app-backend
-[admin-frontend]: https://github.com/bitcoindeepa/admin-frontend
-[sats-dansala]: https://github.com/bitcoindeepa/sats-dansala
-[website]: https://github.com/bitcoindeepa/website

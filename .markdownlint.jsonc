@@ -3,6 +3,6 @@
   "MD013": { "line_length": 120 },
   // GitHub needs HTML for light/dark images (<picture>), floats and the centred footer.
   "MD033": {
-    "allowed_elements": ["a", "br", "details", "em", "img", "p", "picture", "source", "strong", "sub", "summary"]
+    "allowed_elements": ["a", "b", "br", "details", "em", "img", "p", "picture", "source", "strong", "sub", "summary"]
   }
 }
